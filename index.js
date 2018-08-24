@@ -1,5 +1,5 @@
 function add(a, b) {
-  add(Math.floor(Math.random() * 1000), Math.floor(Math.random() * 1000))
+  add(10, 5)
   return a + b
 }
 
