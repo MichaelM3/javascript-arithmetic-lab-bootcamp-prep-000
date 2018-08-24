@@ -24,7 +24,7 @@ function dec(n) {
 
 function makeInt(n) {
   n = "string"
-  return parseInt(n)
+  return parseInt(a)
 }
 
 function makeInt(n) {
