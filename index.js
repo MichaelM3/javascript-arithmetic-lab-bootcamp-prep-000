@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return(parseInt'nonsense!')
+  return parseInt('nonsense!')
 }
