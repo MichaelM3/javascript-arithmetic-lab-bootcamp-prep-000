@@ -1,5 +1,5 @@
 function add(a, b) {
-  add(10, 5)
+  add(a, b)
   return a + b
 }
 
